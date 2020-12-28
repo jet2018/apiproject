@@ -1,0 +1,1 @@
+ALTER TABLE `user` CHANGE `OName` `email` VARCHAR(45) CHARACTER SET latin1 COLLATE latin1_swedish_ci NULL DEFAULT NULL; 
